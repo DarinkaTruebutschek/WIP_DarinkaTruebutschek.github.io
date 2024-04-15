@@ -125,6 +125,7 @@ highlight_name: true
 ---
 
 I am a cognitive neuroscientist, trying to understand how the human brain generates and stores subjective experiences. To this end, I combine psychophysics and eye-tracking with electrophysiology, computational modeling, and machine learning to dissect how sensory representations are transformed into subjective percepts, memories, and decisions, and how those are shaped by previous experiences and future goals. I also care deeply about making science as accessible, fair, inclusive, and open as possible and take part in several open-science initiatives, including being a steering committee member of the [EEGManyPipelines project](https://www.eegmanypipelines.org/).
+{style="text-align: justify;"}
 
 I am currently a postdoctoral research fellow, funded by an [MSCA Individual Fellowship](https://cordis.europa.eu/project/id/101023805), with Dr. Lucia Melloni at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html) in Frankfurt/Main (Germany). Previously I worked with Prof. Mark Stokes at the [University of Oxford](https://www.psy.ox.ac.uk/news/in-memoriam-mark-stokes) (UK) as a postdoctoral research fellow funded by the [Fondation Fyssen](https://www.fondationfyssen.fr/en/) and completed my PhD with Prof. Stanislas Dehaene at [Neurospin](https://www.unicog.org/) (Paris, France).
 {style="text-align: justify;"}
