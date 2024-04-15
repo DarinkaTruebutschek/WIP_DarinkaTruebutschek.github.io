@@ -22,29 +22,33 @@ role: Marie Sklodowska-Curie Fellow in Cognitive Neuroscience
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Max Planck Institute for Empirical Aesthetics
-    url: https://www.aesthetics.mpg.de/en.html/
+    url: https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a cognitive neuroscientist, trying to understand how our brain generates and stores subjective experience. Beyond that, I am also a newly minted mother *2.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Subjective perception & experience
+  - Consciousness
+  - Working memory
+  - Statistical learning
+  - Electrophysiology (EEG, MEG, ECoG/iEEG)
+  - Open science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Cognitive Neuroscience
+      advisor: Prof. Stanislas Dehaene
+      institution: Sorbonne Université, Paris, France
+      year: 2018
+    - course: MSc in Behavioral and Cognitive Neuroscience
+      institution: Université Pierre et Marie Curie, Paris, France
+      year: 2013
+    - course: BSc with Honors in Psychology
+      institution: Washington and Lee University, Lexington, VA, USA
+      year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
