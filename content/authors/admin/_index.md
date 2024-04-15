@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Darinka Tr&uubutschek
+title: Dr. Darinka Tr&uuml;butschek
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
