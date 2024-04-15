@@ -236,22 +236,23 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you care about similar topics, would like to learn more, or just want to chat, I look forward to hearing from you.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: darinka_DOT_truebutschek_AT_ae_DOT_mpg_DOT_de
+      phone: +49 69 8300479-332
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        institute: Max Planck Institute for Empirical Aesthetics
+        street: Grüneburgweg 14
+        city: Frankfurt/Main
+        #region: 
+        postcode: '60322'
+        country: Germany
+        #country_code: 
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
+        #- 'Monday 10:00 to 13:00'
+        #- 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
