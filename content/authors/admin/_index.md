@@ -22,7 +22,7 @@ role: Marie Sklodowska-Curie Fellow in Cognitive Neuroscience
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Max Planck Institute for Empirical Aesthetics
-    url: www.aesthetics.mpg.de/en.html/
+    url: https://www.aesthetics.mpg.de/en.html/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
