@@ -242,14 +242,12 @@ sections:
       phone: +49 69 8300479-332
       #appointment_url: 'https://calendly.com'
       address:
-        street: Max Planck Institute for Empirical Aesthetics, 
-                Grüneburgweg 14, 
-                60322 Frankfurt/Main, 
-                Germany
-        #city: Frankfurt/Main
+        street: Max Planck Institute for Empirical Aesthetics
+        street: Grüneburgweg 14
+        city: '60322' Frankfurt/Main
         #region: 
         #postcode: '60322'
-        #country: Germany
+        country: Germany
         #country_code: 
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
