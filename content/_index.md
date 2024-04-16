@@ -233,21 +233,23 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Get in touch
       subtitle:
       text: |-
         If you care about similar topics, would like to learn more, or just want to chat, I look forward to hearing from you.
       # Contact (add or remove contact options as necessary)
       email: darinka_DOT_truebutschek_AT_ae_DOT_mpg_DOT_de
       phone: +49 69 8300479-332
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
-        institute: Max Planck Institute for Empirical Aesthetics
-        street: Grüneburgweg 14
-        city: Frankfurt/Main
+        street: Max Planck Institute for Empirical Aesthetics, 
+                Grüneburgweg 14, 
+                60322 Frankfurt/Main, 
+                Germany
+        #city: Frankfurt/Main
         #region: 
-        postcode: '60322'
-        country: Germany
+        #postcode: '60322'
+        #country: Germany
         #country_code: 
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
